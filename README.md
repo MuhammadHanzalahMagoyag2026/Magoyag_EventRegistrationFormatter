@@ -1,1 +1,0 @@
-# Magoyag_EventRegistrationFormatter
